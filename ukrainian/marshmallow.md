@@ -22,6 +22,8 @@
 
 [Просто трошки почекаю](wait-more/wait.md)
 
-[Test!](test/test.md)
+[Test](test/test.md)
+
+[Ignore reality](ignore/ignore.md)
 
 І, так, я теж не розумію, для чого мотузка, але в голову лізуть підозрілі думки!
